@@ -1,4 +1,4 @@
-package lab_3c;
+package edu.calpoly.dltompki.csc305.lab3.b;
 
 public class Database {
 	
